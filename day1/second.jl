@@ -1,4 +1,4 @@
-function day1(fname = "input.txt")
+function day1b(fname = "input.txt")
     d = readline(fname)
 
     tot = 0
@@ -12,4 +12,4 @@ function day1(fname = "input.txt")
     return tot
 end
 
-day1()
+day1b()
